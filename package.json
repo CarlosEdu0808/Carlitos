@@ -1,0 +1,20 @@
+{
+  "name": "carlitos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "timeout 5s node index.js || [ $? -eq 124 ]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosEdu0808/Carlitos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosEdu0808/Carlitos/issues"
+  },
+  "homepage": "https://github.com/CarlosEdu0808/Carlitos#readme"
+}
